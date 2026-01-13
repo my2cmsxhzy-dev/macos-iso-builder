@@ -1,4 +1,4 @@
-name: Build macOS Installer ISO/DMG image
+name: Build macOS Installer ISO/DMG image 
 
 on:
   workflow_dispatch:
